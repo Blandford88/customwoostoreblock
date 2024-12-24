@@ -1,0 +1,22 @@
+{
+    "name": "woocommerce-products-block",
+    "version": "1.0.0",
+    "description": "A custom Gutenberg block to display WooCommerce products.",
+    "main": "index.js",
+    "scripts": {
+      "build": "wp-scripts build",
+      "start": "wp-scripts start"
+    },
+    "keywords": [
+      "wordpress",
+      "gutenberg",
+      "block",
+      "woocommerce"
+    ],
+    "author": "Your Name",
+    "license": "GPL-2.0-or-later",
+    "devDependencies": {
+      "@wordpress/scripts": "^28.0.0"
+    }
+  }
+  
